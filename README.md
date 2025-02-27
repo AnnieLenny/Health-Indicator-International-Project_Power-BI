@@ -57,7 +57,7 @@ This map shows the life expectancy across different countries, highlighting geog
 ### Dashboard View:
 A snapshot of the final dashboard, integrating various visuals for a comprehensive analysis.
 ![image](https://github.com/user-attachments/assets/ba3865b1-5f03-46dc-9257-5395bba1d78a)
-!https://github.com/AnnieLenny/Health-Indicator-International-Project_Power-BI/tree/main!
+!https://app.powerbi.com/groups/me/reports/d6601c9b-0c15-45ed-9d28-ce84d897ee55/11f0776f739b23699481?experience=power-bi!
 
 ## 🛠 Tools & Techniques Used:
 - **Power BI**: For data import, transformation, and visualization.
